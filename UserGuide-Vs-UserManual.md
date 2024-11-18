@@ -1,5 +1,8 @@
 # User Guide Vs User Manual - their similarities and differences
-
+Effective communication is crucial when introducing users to complex products, software or systems. Two essential documents facilitates this process: User Guides and User Manuals. while often used interchangeably, these documents serve distinct purposes, sharing similiarities in their goals but differing in scope, detail, and approach.
+ 
+## Table Of Content
+- [Definition of User Guide] 
 
 ## <u>Definition of User Guide</u>
 A **user guide** is a document that helps users to understand and effectively use a product, software  or system. It provides a more concise and clear **overview** of a product's *essential* features  and basic usage.
