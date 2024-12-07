@@ -1,3 +1,6 @@
+
+![images- userguide vs usermanual](https://github.com/user-attachments/assets/c1c489aa-f0ed-40c1-9827-1a73d5fc245c)
+
 # User Guide Vs User Manual - their similarities and differences
 Effective communication is crucial when introducing users to complex products, software or systems. Two essential documents facilitates this process: User Guides and User Manuals. While often used interchangeably, these documents serve distinct purposes, sharing similiarities in their goals but differing in scope, detail, and approach.
  
